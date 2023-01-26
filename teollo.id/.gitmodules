@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/nurarif151/nurarif151.github.io
+	branch = main
+[submodule "public_new"]
+	path = public_new
+	url = git@github.com:nurarif151/nurarif151.github.io.git
+	branch = main
